@@ -28,11 +28,15 @@
 - build header layout and style
 - add the logo
 - user button to confirm redirect
+- routes
 - desktop nav
 - mobile nav
 
 
 # CREATE EVENT
+- create the page
+- then form
+- step with
 - multipe step form
 - name of the event
 - event details - virtual or in person
